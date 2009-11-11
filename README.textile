@@ -1,0 +1,17 @@
+h1. README
+
+*Shoot Mickey*, a VHDL game for Spartan3 FPGA-Board
+
+h2. About
+
+This game is aimed to run on Spartan3 FPGA-Board only:
+!http://cloud.github.com/downloads/arnaud/shoot-mickey/Spartan-3.png!
+
+I don't have any screenshot of the game right now, but all I can say is it uses the full potential of this tiny FPGA board.
+
+Please note that sources and documentation files are french-localized only.
+
+h2. Contributors
+
+ * "arnaud":http://github.com/arnaud (author)
+ * vincent (author)
